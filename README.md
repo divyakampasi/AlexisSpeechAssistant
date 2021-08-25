@@ -11,9 +11,9 @@ Lily is a speech assistant that recognizes voice spoken into a microphone and se
 
 ## Currently used Voice Commands
 
-What is your name?
-What time is it
-Search
-Find Location
-Exit
+* What is your name?
+* What time is it
+* Search
+* Find Location
+* Exit
 
