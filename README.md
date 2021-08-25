@@ -3,11 +3,11 @@ Lily is a speech assistant that recognizes voice spoken into a microphone and se
 
 ## Libraries Used 
 
-pip install speechrecognition
-pip install pyttsx3
-pip install pyaudio
-pip install playsound
-pip install PyObjC
+* pip install speechrecognition
+* pip install pyttsx3
+* pip install pyaudio
+* pip install playsound
+* pip install PyObjC
 
 ## Currently used Voice Commands
 
